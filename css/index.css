@@ -237,10 +237,11 @@ img.pink-box-img{
     background-image: url("/Flower Asset/Rectangle\ 9.png");
     background-repeat: no-repeat;
     width: 1120px;
-    height: 320px;
+    height: 380px;
     flex-shrink: 0;
     margin-left:240px;
     border-radius: 8px;
+    object-fit: scale-down;
 }
 .img-input{
    top: 90px;
