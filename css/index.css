@@ -154,6 +154,9 @@ body,html{
     margin-bottom: 128px;
     
 }
+span{
+    color:#E55473;
+}
 .box-body{
     margin: auto;
 }
@@ -264,4 +267,43 @@ border:none;
     align-items: flex-start;
     gap: 10px;
     border: none;
+}
+footer{
+    margin-top: 128px;
+    display: flex;
+    background: #111010;
+    
+}
+.footer-endpart{
+    margin: auto;
+}
+.Section-title-end{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 178px;
+ }
+ p.section-description-end{
+    color:#FFFFFF;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 594px;
+    text-align: center;
+    
+ }
+.copyright{
+    color: rgb(182, 182, 182);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
