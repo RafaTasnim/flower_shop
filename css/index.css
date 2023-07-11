@@ -172,12 +172,12 @@ span{
     margin: auto;
 }
 img.box-img{
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 120px;
+    margin-right:120px;
 }
 .box-p{
     text-align: center;
-    text-align: center;
+    
     color: rgba(39, 39, 39, 0.80);
     text-align: center;
     font-family: Lato;
