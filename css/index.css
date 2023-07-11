@@ -25,6 +25,7 @@ body,html{
     width: 635px;
     height: 800px;
     margin-right: 100px;
+    margin-left: 100px;
     flex-shrink: 0;  
     position: relative;
     background-size: contain;
@@ -215,7 +216,7 @@ img.box-img{
 }
 #signup{
     border-radius: 8px;
-    background: #E55473;
+    background: rgb(229, 84, 115);
     color:#FFFFFF;
     display: inline-flex;
     padding: 20px 43px;
@@ -301,7 +302,7 @@ footer{
     height: 449px; 
 }
 .footer-endpart{
-    margin-top:128px;
+    margin-top:108px;
     margin-left: 648px;
     margin-bottom: 128px;
 }
@@ -335,4 +336,55 @@ footer{
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+}
+
+
+
+
+/*section7*/
+.section7{
+    margin-left:20px;
+}
+.box1{
+    
+    display:flex;
+    margin:128px 240px 128px 250px;
+}
+.customer-review{
+    background-color:rgba(229, 84, 115, 0.151);
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    gap:20px;
+    top:20px;
+    position:relative;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.customer-title{
+    text-align: center;
+    width:300px;
+    margin-top: 60px;
+    margin-left: 50px;
+
+}
+img.customer-img{
+    width:250px;
+    margin-left: 70px;
+}
+.seemore {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    display: block;
+    top:-20px;
+    position: relative;
+  
+
 }
