@@ -263,8 +263,9 @@ img.pink-box-img{
     flex-shrink: 0;
     margin-left:240px;
     border-radius: 8px;
-    object-fit: scale-down;
+    object-fit: scale-down; 
 }
+
 .img-input{
    top: 90px;
    position: relative;
