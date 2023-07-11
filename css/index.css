@@ -177,7 +177,7 @@ img.box-img{
 }
 .box-p{
     text-align: center;
-    color: rgba(39, 39, 39, 0.80);
+    color: #272727cc;
     text-align: center;
     font-family: Lato;
     font-size: 24px;
@@ -247,9 +247,18 @@ img.pink-box-img{
 }
 
 /*section4*/
-.section4{
+
+
+.Section-title4{
+    color: #272727;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    text-align: center;
     margin-top: 128px;
-}
+ }
 .all-flower-card{
     margin-right: 240px;
 }
